@@ -1,4 +1,4 @@
-# Banking Transaction Analytics & Monitoring System
+# Banking Transaction Analytics & Monitoring System 
 
 ## Project Overview
 
